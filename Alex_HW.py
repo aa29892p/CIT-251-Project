@@ -9,7 +9,7 @@ ascii_text = binary_array.decode()
 
 
 
-print(ascii_text)
+print(f"This is my converted ascii_test: {ascii_text}")
 
 
 i = 0
